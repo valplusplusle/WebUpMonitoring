@@ -1,0 +1,4 @@
+[sending email adress]
+[mail smtp]
+[mail password]
+[destination email adress]
